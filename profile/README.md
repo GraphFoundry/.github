@@ -1,4 +1,4 @@
-# Optimizing Performance & Reliability in Microservice Architectures using Graph Theory and Network Science**
+# Optimizing Performance & Reliability in Microservice Architectures using Graph Theory and Network Science
 
 A research project by fourth-year students at **Sri Lanka Institute of Information Technology (SLIIT)**, aimed at revolutionizing microservice reliability through graph-based analysis, predictive simulations, and intelligent resource scheduling.
 
