@@ -1,19 +1,20 @@
-# Optimizing Performance & Reliability in Microservice Architectures using Graph Theory and Network Science**
+# Optimizing Performance & Reliability in Microservice Architectures using Graph Theory and Network Science
 
 A research project by fourth-year students at **Sri Lanka Institute of Information Technology (SLIIT)**, aimed at revolutionizing microservice reliability through graph-based analysis, predictive simulations, and intelligent resource scheduling.
 
-**🛑 IMPORTANT NOTE:** We had to use six separate repositories because each component is fully independent, has its own.
+> **🛑 IMPORTANT NOTE:** _We had to use multiple repositories to allow each component to be built, developed and deployed independently. Using a single repo would restrict CI/CD workflows._
 
 ---
 
 ## 👥 Team Members
 
-| IT Number  | Name | Component |
-|------------|------|-----------|
-| **IT22917270** | Wimalagunasekara D.M.E. | [Service Graph Engine](#1-service-graph-engine) |
-| **IT22036148** | Minsandi I.G.Y. | [Kubernetes Scheduler Extender](#4-kubernetes-scheduler-extender) |
-| **IT22314574** | Samarathunge M.P.C. | [Graph Dependency Alert Engine](#5-graph-dependency-alert-engine) |
-| **IT22346872** | Sarathchandra I.T.P. | [Predictive Analysis Engine](#3-predictive-analysis-engine) |
+| IT Number      | Name                    | Component                                                         | Repositories                                                                   |
+| -------------- | ----------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **IT22917270** | Wimalagunasekara D.M.E | [Service Graph Engine](#1-service-graph-engine)                   | [🔗 Link](https://github.com/GraphFoundry/service-graph-engine)          |
+| **IT22036148** | Minsandi I.G.Y         | [Kubernetes Scheduler Extender](#4-kubernetes-scheduler-extender) | [🔗 Link](https://github.com/GraphFoundry/kubernetes-scheduler-extender) |
+| **IT22314574** | Samarathunge M.P.C     | [Graph Dependency Alert Engine](#5-graph-dependency-alert-engine) | [🔗 Link](https://github.com/GraphFoundry/graph-dependency-alert-engine) |
+| **IT22346872** | Sarathchandra I.T.P    | [Predictive Analysis Engine](#3-predictive-analysis-engine)       | [🔗 Link](https://github.com/GraphFoundry/analysis-engine)               |
+
 
 ---
 
